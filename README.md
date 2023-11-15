@@ -1,5 +1,5 @@
 # AVS_feature_data
-This repository shares the feature and other data of the ad-hoc video search. Currently, it has the data of three datasets: IACC.3, V3C1 and V3C2. For each video clip, we provide the frame-level feature. Please refer to video2frames.txt to find the corresponding frames for a video clip. For example a video clip shot35903_7 in IACC.3 dataset has six frames extracted features and the format looks like this:'shot35903_7': ['shot35903_7_0', 'shot35903_7_75', 'shot35903_7_150', 'shot35903_7_225', 'shot35903_7_300', 'shot35903_7_375']. Each frame corresponds to a npy file (e.g., shot35903_7_0.npy under the npy folder of the feature file). 
+This repository shares the feature and other data of the ad-hoc video search. Currently, it has the data of three datasets: IACC.3, V3C1 and V3C2. For each video clip, we provide the frame-level feature. Please refer to video2frames.txt to find the corresponding frames for a video clip. For example a video clip shot35903_7 in IACC.3 dataset has six frames extracted features and the format looks like this: 'shot35903_7': ['shot35903_7_0', 'shot35903_7_75', 'shot35903_7_150', 'shot35903_7_225', 'shot35903_7_300', 'shot35903_7_375']. Each frame corresponds to a npy file (e.g., shot35903_7_0.npy under the npy folder of the feature file). 
 
 ## **IACC.3 dataset**
 
