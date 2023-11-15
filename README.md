@@ -5,7 +5,7 @@ This repository shares the feature and other data of the ad-hoc video search. Cu
 
 335,944 video clips ([clip ids](https://portland-my.sharepoint.com/:t:/g/personal/jiaxinwu9-c_my_cityu_edu_hk/EYDbIU3aV-1KlhV98W7nN2kBwLKa74OzmK1cKq5bQJgH-A?e=VhnFtC))
 
-Query sets: tv16.avs.txt, tv17.avs.txt,tv18.avs.txt  ([query and ground truth files](https://portland-my.sharepoint.com/:f:/g/personal/jiaxinwu9-c_my_cityu_edu_hk/EqF8SG8mxbZNpray_YikaE8BbW4Wb7YbPJbgH-o1GaSBZg?e=RAbqJP))
+Query sets: tv16.avs.txt, tv17.avs.txt, tv18.avs.txt  ([query and ground truth files](https://portland-my.sharepoint.com/:f:/g/personal/jiaxinwu9-c_my_cityu_edu_hk/EqF8SG8mxbZNpray_YikaE8BbW4Wb7YbPJbgH-o1GaSBZg?e=RAbqJP))
 
 Available features:
 
@@ -23,7 +23,7 @@ BLIP-2
 
 1,082,649 video clips ([clip ids](https://portland-my.sharepoint.com/:t:/g/personal/jiaxinwu9-c_my_cityu_edu_hk/EagcB0P8xFtMrKjTH_UQtlABqsU7fBoPrd3P_K27lGFpFQ?e=5vt65M))
 
-Query sets: tv16.avs.txt, tv17.avs.txt,tv18.avs.txt  ([query and ground truth files](https://portland-my.sharepoint.com/:f:/g/personal/jiaxinwu9-c_my_cityu_edu_hk/EqGgR1gx4-VCqm9cqQ7nbAUBnFN4kkrilCCBGouHqUrVPg?e=Fvs6CZ))
+Query sets: tv19.avs.txt, tv20.avs.txt, tv21.avs.txt  ([query and ground truth files](https://portland-my.sharepoint.com/:f:/g/personal/jiaxinwu9-c_my_cityu_edu_hk/EqGgR1gx4-VCqm9cqQ7nbAUBnFN4kkrilCCBGouHqUrVPg?e=Fvs6CZ))
 
 Available features:
 
@@ -41,7 +41,7 @@ BLIP-2
 
 1,425,451 video clips ([clip ids](https://portland-my.sharepoint.com/:t:/g/personal/jiaxinwu9-c_my_cityu_edu_hk/Ebyks5_rNoVGkYQqZCtGAe0B4HaheXazhDP_kguvW34sJw?e=cOSNdQ))
 
-Query sets: tv16.avs.txt, tv17.avs.txt,tv18.avs.txt  ([query and ground truth files](https://portland-my.sharepoint.com/:f:/g/personal/jiaxinwu9-c_my_cityu_edu_hk/EgbLXw3h3-9CiEFi2kAbmPwBjzh2N8KQMtlUYj6yy998ew?e=EJJrkp))
+Query sets: tv22.avs.txt, tv23.avs.txt (and their narrative) ([query and ground truth files](https://portland-my.sharepoint.com/:f:/g/personal/jiaxinwu9-c_my_cityu_edu_hk/EgbLXw3h3-9CiEFi2kAbmPwBjzh2N8KQMtlUYj6yy998ew?e=EJJrkp))
 
 Available features:
 
