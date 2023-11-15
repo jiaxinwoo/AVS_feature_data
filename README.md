@@ -56,6 +56,10 @@ BLIP-2
 [frame-level features](https://portland-my.sharepoint.com/:u:/g/personal/jiaxinwu9-c_my_cityu_edu_hk/Ecs7FejkKM5CufWDPqkQqhABI5lT1Noo1p__ehfyKAzYkw?e=zEbzQ3))
 
 
+## Feature Extraction Projects
+
+* [CLIP](https://github.com/openai/CLIP)
+* [BLIP2](https://github.com/salesforce/LAVIS)
 
 ## Citation
 If you found the data useful, please cite our paper as followed:
