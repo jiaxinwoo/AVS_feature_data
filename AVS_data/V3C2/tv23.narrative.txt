@@ -1,0 +1,20 @@
+731 A man is visible with a baby at the same time in any position or location
+732 A woman is visible who also appears to have a red colored hair
+733 A scene that is showing a golf course where players can play golf outdoors
+734 A location that can be identified as a studio where recordings can take place
+735 A toy of any size that looks like a vehicle (car, truck, etc) where children would use to play with
+736 A person who is seen opening a door and in the process of entering a new space or location (can be indoors or outdoors)
+737 An adult woman is seen while wearing a glasses with a dark frame color
+738 A person who can be identified as a police officer is seen while wearing a helmet
+739 At least two persons are visible and seen in front of a fence made out of chain link material. These persons can be standing, walking, etc
+740 A man is seen indoors where his body shape can be characterized as heavy, overweight, big, etc. The topic should execludes seen men with body shapes such as thin, skinny, normal, or underweight
+741 A person wearing a scarf around his or her neck. The scarf color should be either red or blue including shades of red or shades of blue.
+742 A child is seen outdoors while he or she in the act of climbing any kind of object. The object size must be big enough to show that the child is climbing it.
+743 A man is seen talking in a small window with square or rectangular shape located at one of the lower left or right corners of the video 
+744 A person is seen taking photographs using a cell phone camera. This execludes all other traditional independent camera types
+745 A person is seen wearing a type of gloves in his/her hands while at the same time in the act of biking. 
+746 A man is visible while he is in the act of actively riding a scooter (excludes holding a scooter, or standing on a scooter without riding it, etc)
+747 Two or more persons are visible while working on their laptops together in the same room location indoors
+748 A man is seen while carrying any type of bag on only one of his shoulders. The other shoulder should be free (e.g. no backbags)
+749 A person is seen while wearing a type of face mask or head mask
+750 A man is seen wearing an earring in his left ear . He may or may not be wearning an earring in the right ear at the same time

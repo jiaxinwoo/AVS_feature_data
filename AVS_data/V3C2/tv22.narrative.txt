@@ -1,0 +1,30 @@
+701 a man face with a white colored beard
+702 the inside view of a room where the color of walls is blue
+703 a location that can be identified as a construction site where workers, tools, unfinished building, etc. exist
+704 a car is seen parked where it's color is white
+705 any kind of cloth seen hanging on hanger, rack or outdoor line being dried by air
+706 a building seen either from inside or outside that has obvious column structure holding it
+707 a person is seen mixing together various ingredients in a container using their hands, spoon, or other tool
+708 a female person is bending downwards with their body in any direction
+709 a person is doing a swinging motion pattern using their body or some other object
+710 a person wearing a light colored t-shirt with dark or black writing on the t-shirt
+711 a woman wearing a head kerchief  around her head covering part of her hair
+712 a man seen wearing all black colored shorts
+713 a man seen outdoors in a kneeling position with his body
+714 at least 2 persons are seen indoors in a room that has a fireplace visible
+715 a bride and groom who both look to be from an Asian race are seen celebrating their marriage outdoors
+716 a flying drone is being operated and seen either in a landing or rising position from the ground
+717 a black colored bird seen not flying, but walking, sitting down, or eating in a dry area
+718 a building made of stone is visible, large in size and the camera is showing it from the outside
+719 a heavy equipment or machine used in farms or farming are seen outdoors
+720 a type of clock that is being hanged on a wall in a room
+721 at least two persons are seen together, outdoors, where one or more of them are speaking in a foreign language.
+722 an adult woman is seen eating food outdoors either in standing or sitting positions
+723 a person on a bicycle who is biking and going through a path in a forest location
+724 a man biking and jumps off a ramp with the bike. Both he and the bike in the air are visible
+725 a woman is seen either holding or smoking a traditional cigarette
+726 two teams are playing a sport game where one of them are wearing white colored t-shirts outfit
+727 two persons indoors are playing any kind of martial arts. Both should be wearing white outfits and black belts, and floor mats should be visible in the room
+728 two adults are seen in a seated positions inside flying paraglider
+729 a ring is worn on a finger that belongs to the left hand of a person
+730 a man holding a type of knife somewhere that is not a kitchen

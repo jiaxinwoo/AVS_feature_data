@@ -1,0 +1,20 @@
+731  A man is seen with a baby
+732  A woman with red hair
+733  A golf course
+734  A recording studio
+735  A toy vehicle
+736  A person opens a door and enters a location
+737  A woman wearing (dark framed) glasses
+738  A police officer wearing a helmet
+739  Two or more persons are seen in front of a chain link fence
+740  A heavy man indoors
+741  A red or blue scarf around someone's neck
+742  A child climbs an object outdoors
+743  A man is talking in a small window located in the lower corner of the screen
+744  A person taking picture using a cell phone camera
+745  A person wearing gloves while biking
+746  A man riding a scooter
+747  At least two persons are working on their laptops together in the same room indoors.
+748  A man carrying a bag on one of his shoulders (excluding backbags)
+749  A person wearing any kind of face or head mask
+750  A man with an earring in his left ear
