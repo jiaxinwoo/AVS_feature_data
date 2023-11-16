@@ -3,9 +3,9 @@ This repository shares the feature and other data of the ad-hoc video search. Cu
 
 ## **IACC.3 dataset**
 
-335,944 video clips ([clip ids](https://portland-my.sharepoint.com/:t:/g/personal/jiaxinwu9-c_my_cityu_edu_hk/EYDbIU3aV-1KlhV98W7nN2kBwLKa74OzmK1cKq5bQJgH-A?e=VhnFtC))
+335,944 video clips ([clip ids](https://github.com/jiaxinwoo/AVS_feature_data/blob/main/AVS_data/IACC.3/VideoSets/iacc.3.txt))
 
-Query sets: tv16.avs.txt, tv17.avs.txt, tv18.avs.txt  ([query and ground truth files](https://portland-my.sharepoint.com/:f:/g/personal/jiaxinwu9-c_my_cityu_edu_hk/EqF8SG8mxbZNpray_YikaE8BbW4Wb7YbPJbgH-o1GaSBZg?e=RAbqJP))
+Query sets: tv16.avs.txt, tv17.avs.txt, tv18.avs.txt  ([query and ground truth files](https://github.com/jiaxinwoo/AVS_feature_data/blob/main/AVS_data/IACC.3/))
 
 Available features:
 
@@ -21,9 +21,9 @@ BLIP-2
 
 ## **V3C1 dataset**
 
-1,082,649 video clips ([clip ids](https://portland-my.sharepoint.com/:t:/g/personal/jiaxinwu9-c_my_cityu_edu_hk/EagcB0P8xFtMrKjTH_UQtlABqsU7fBoPrd3P_K27lGFpFQ?e=5vt65M))
+1,082,649 video clips ([clip ids](https://github.com/jiaxinwoo/AVS_feature_data/blob/main/AVS_data/V3C1/VideoSets/v3c1.txt))
 
-Query sets: tv19.avs.txt, tv20.avs.txt, tv21.avs.txt  ([query and ground truth files](https://portland-my.sharepoint.com/:f:/g/personal/jiaxinwu9-c_my_cityu_edu_hk/EqGgR1gx4-VCqm9cqQ7nbAUBnFN4kkrilCCBGouHqUrVPg?e=Fvs6CZ))
+Query sets: tv19.avs.txt, tv20.avs.txt, tv21.avs.txt  ([query and ground truth files](https://github.com/jiaxinwoo/AVS_feature_data/blob/main/AVS_data/V3C1/))
 
 Available features:
 
@@ -39,9 +39,9 @@ BLIP-2
 
 ## **V3C2 dataset**
 
-1,425,451 video clips ([clip ids](https://portland-my.sharepoint.com/:t:/g/personal/jiaxinwu9-c_my_cityu_edu_hk/Ebyks5_rNoVGkYQqZCtGAe0B4HaheXazhDP_kguvW34sJw?e=cOSNdQ))
+1,425,451 video clips ([clip ids](https://github.com/jiaxinwoo/AVS_feature_data/blob/main/AVS_data/V3C2/VideoSets/v3c2.txt))
 
-Query sets: tv22.avs.txt, tv23.avs.txt (and their narrative) ([query and ground truth files](https://portland-my.sharepoint.com/:f:/g/personal/jiaxinwu9-c_my_cityu_edu_hk/EgbLXw3h3-9CiEFi2kAbmPwBjzh2N8KQMtlUYj6yy998ew?e=EJJrkp))
+Query sets: tv22.avs.txt, tv23.avs.txt (and their narrative) ([query and ground truth files](https://github.com/jiaxinwoo/AVS_feature_data/blob/main/AVS_data/V3C2))
 
 Available features:
 
